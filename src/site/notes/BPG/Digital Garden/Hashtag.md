@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tags","permalink":"/tags/","title":"Тэги BPG","dg-note-properties":{"title":"Тэги BPG"}}
+{"dg-publish":true,"dg-permalink":"hashtag","permalink":"/hashtag/","title":"Тэги BPG","dg-note-properties":{"title":"Тэги BPG"}}
 ---
 
 # Telegram
