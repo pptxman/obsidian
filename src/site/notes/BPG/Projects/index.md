@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/bpg/projects/index/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-[Алый сад (Scarlet Garden) ❤️ 🏆 ⚠️](scarlet-garden.md)
+[Алый сад (Scarlet Garden) ❤️ 🏆 ⚠️](/obsdian/scarlet-garden.md)
 [Взлетая в небо, отражаюсь в волнах (Николино 19) ❤️ 🏆](taking-off.md)
 [Геометрия природы ❤️ 🏆 ⚠️](geometry-nature.md)
 [Гоголевский ❤️ 🏆 ⚠️](gogolevsky.md)
