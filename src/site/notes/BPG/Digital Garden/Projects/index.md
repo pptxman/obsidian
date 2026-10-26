@@ -27,7 +27,7 @@
 [Слушая тишину (Гринфилд) ❤️ 🏆](/obsidian/listening-silence)
 [Тихая роскошь (Раздоры 2) 🏆 ⚠️](/obsidian/quiet-luxury)
 [Трувиль](/obsidian/trouville)
-[Французский флер (Миллениум) ❤️ 🎥](/obsidian/french-flair)
+[Французский шарм (Миллениум) ❤️ 🎥](/obsidian/french-flair)
 [Центр художественной гимнастики 🏆 🚫](/obsidian/rgc)
 
 ***
