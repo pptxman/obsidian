@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"french-flair","permalink":"/french-flair/","title":"Французский флер (Миллениум)","dg-note-properties":{"title":"Французский флер (Миллениум)"}}
+{"dg-publish":true,"dg-permalink":"french-flair","permalink":"/french-flair/","title":"Французский шарм (Миллениум)","dg-note-properties":{"title":"Французский шарм (Миллениум)"}}
 ---
 
-# Французский флер (Миллениум)
+# Французский шарм (Миллениум)
 
 ## Короткое описание
 Идеальный сад для жизни и отдыха, где каждый найдет себе занятие по душе.
